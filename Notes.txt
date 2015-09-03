@@ -1,0 +1,10 @@
+prerequisite missing is node.js essential training with joseph leBlanc.
+
+ideal for large scale single page apps.
+DOM contains HTML as well as XML elements that make up a web page.
+
+JS objects are faster than DOM objects.
+React never reads from the "real" DOM.
+React only writes to "real" DOM if needed.
+On rendering it updates the virtual DOM and only necessary changes are updated in Real DOM
+
