@@ -9,3 +9,8 @@ React only writes to "real" DOM if needed.
 On rendering it updates the virtual DOM and only necessary changes are updated in Real DOM
 
 JSX stands for javascript as XML
+in browser transformation good while development but once moving to production then better use pre transformed jsx.
+
+whenever we are using components again. we need to wrap them in a container.
+making components more dynamic by adding properties.
+props give us a way to reuse components with different data.
