@@ -8,3 +8,4 @@ React never reads from the "real" DOM.
 React only writes to "real" DOM if needed.
 On rendering it updates the virtual DOM and only necessary changes are updated in Real DOM
 
+JSX stands for javascript as XML
