@@ -20,3 +20,5 @@ due to the jsx transform library file and the local file.
 
 getDOMNode().value to get the value from the textbox.
 refs to flow data to child nodes if it is getting difficult to do from props and state
+
+child components can inherit states and props from their parents.
