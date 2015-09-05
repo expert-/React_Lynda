@@ -22,3 +22,16 @@ getDOMNode().value to get the value from the textbox.
 refs to flow data to child nodes if it is getting difficult to do from props and state
 
 child components can inherit states and props from their parents.
+splice to remove one item frmo the array
+
+Mounting{
+	getDefaultProps and getInitialState are called once.
+	componentWillMount is called right before the render and this is the last chance to affect the state prior to render.
+	componentDidMOunt is called after a successful render.
+}
+Updating{
+	componentWillReceiveProps.
+	shouldComponentUpdate
+	ComponentWillUpdate
+	ComponentDidUpdate
+}
