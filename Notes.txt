@@ -14,3 +14,9 @@ in browser transformation good while development but once moving to production t
 whenever we are using components again. we need to wrap them in a container.
 making components more dynamic by adding properties.
 props give us a way to reuse components with different data.
+
+cross origin request error in chrome.
+due to the jsx transform library file and the local file.
+
+getDOMNode().value to get the value from the textbox.
+refs to flow data to child nodes if it is getting difficult to do from props and state
