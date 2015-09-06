@@ -1,0 +1,27 @@
+{
+  "name": "bulletin-board",
+  "version": "0.0.1",
+  "description": "A bulletin board ceated in react",
+  "main": "Note.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expert-/React_Lynda.git"
+  },
+  "keywords": [
+    "React",
+    "Note"
+  ],
+  "author": "Ayush Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/expert-/React_Lynda/issues"
+  },
+  "homepage": "https://github.com/expert-/React_Lynda#readme",
+  "dependencies": {
+    "httpster": "^1.0.1",
+    "react-tools": "^0.13.3"
+  }
+}

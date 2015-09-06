@@ -35,3 +35,18 @@ Updating{
 	ComponentWillUpdate
 	ComponentDidUpdate
 }
+
+package.json uses commonJS.
+lightweight server httpster.
+
+browserify, reactify, webpack, grunt,gulp.
+jest for testing.
+
+ReactJS event handling similar to HTML just some difference in naming handlers.Hnadlers are camel case.
+
+Key is an optional attribute for uniquely identifying each component in the page.
+Refs is an optional element that can be used to access the child element from outside of render() method.
+dangerouslySetInnerHTML can be used inside JSX element to set HTML content inside the component.
+
+npm install -g react-tools
+jsx file watcher --> jsx --watch dev production. (it comes with react-tools)
